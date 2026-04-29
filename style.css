@@ -113,7 +113,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 10000px;
   position: relative;
   margin: auto;
 }
@@ -183,7 +183,6 @@ img {vertical-align: middle;}
   display: block;
   vertical-align: middle;
 }
-
 .img-comp-slider {
   position: absolute;
   z-index: 9;
